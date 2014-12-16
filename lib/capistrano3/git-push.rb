@@ -1,0 +1,1 @@
+load File.expand_path("../tasks/git-push.rake", __FILE__)
