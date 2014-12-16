@@ -30,4 +30,4 @@ And then add ``` require 'capistrano3/git-push' ``` to your ``` Capfile ```
 
 ## My other works
 
-Take a look at my [capistrano3-ubuntu-server-prepare](https://github.com/goooseman/capistrano3-ubuntu-server-prepare) (it can install Nginx, PostgreSQL, Redis, RVM, Rails, Bundler, Imagemagick and do some other helpfull things to prepare your blank Ubuntu server for the first deploy) Capistrano (v3) gems.
+Take a look at my [capistrano3-ubuntu-server-prepare](https://github.com/goooseman/capistrano3-ubuntu-server-prepare) (it can install Nginx, PostgreSQL, Redis, RVM, Rails, Bundler, Imagemagick and do some other helpfull things to prepare your blank Ubuntu server for the first deploy) and [capistrano3-delayed-job](https://github.com/goooseman/capistrano3-delayed-job) (delayed-job daemon management) Capistrano (v3) gems.
