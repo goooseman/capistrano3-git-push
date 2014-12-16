@@ -18,7 +18,7 @@ Add this line to your application's Gemfile:
 
 ```ruby
 group :development do
-	gem 'capistrano-git-push'
+	gem 'capistrano3-git-push'
 end
 ```
 
