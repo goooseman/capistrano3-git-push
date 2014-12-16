@@ -18,7 +18,7 @@ Add this line to your application's Gemfile:
 
 ```ruby
 group :development do
-	gem 'capistrano-ubuntu-server-prepare'
+	gem 'capistrano-git-push'
 end
 ```
 
