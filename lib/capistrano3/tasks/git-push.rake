@@ -13,7 +13,9 @@ namespace :git do
           end
         end
       end
-      execute "git push"
+      run_locally do
+        execute "git push"
+      end
     end
   end
 end
