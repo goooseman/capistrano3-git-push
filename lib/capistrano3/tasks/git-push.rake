@@ -10,10 +10,10 @@ namespace :git do
           run_locally do
             execute "git add -A"
             execute "git commit -m '#{fetch(:commit_message)}'"
-            execute "git push"
           end
         end
       end
+      execute "git push"
     end
   end
 end
