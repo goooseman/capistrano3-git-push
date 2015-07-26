@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "capistrano3-git-push"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["goooseman"]
   spec.email         = ["inbox@goooseman.ru"]
   spec.summary       = "A task for Capistrano v3 to add, commit and push changes to git repo"
